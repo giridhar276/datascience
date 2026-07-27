@@ -1,0 +1,6 @@
+print("ord('A'):", ord('A'))
+print("chr(65):", chr(65))
+print("bin(10):", bin(10))
+print("oct(10):", oct(10))
+print("hex(255):", hex(255))
+print("format binary:", format(10, "08b"))
