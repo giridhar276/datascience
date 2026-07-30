@@ -1,0 +1,17 @@
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+streamlit>=1.40
+pygwalker>=0.4.9
+dash>=3.0
+jupyter>=1.1
+notebook>=7.2
+ipywidgets>=8.1
+voila>=0.5
+mercury>=2.4
+nbformat>=5.10
+scikit-learn>=1.5
+
+statsmodels>=0.14
+
+anywidget>=0.9

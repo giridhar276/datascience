@@ -1,0 +1,4 @@
+mercury
+jupyter
+pandas
+plotly

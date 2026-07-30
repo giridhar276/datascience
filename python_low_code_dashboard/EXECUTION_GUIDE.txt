@@ -1,0 +1,43 @@
+LOW-CODE DASHBOARD PACK - EXECUTION GUIDE
+
+1. Open a terminal in this extracted root folder.
+2. Create a virtual environment:
+   macOS/Linux: python3 -m venv venv && source venv/bin/activate
+   Windows:     python -m venv venv && venv\Scripts\activate
+3. Install dependencies:
+   python -m pip install --upgrade pip
+   python -m pip install -r requirements.txt
+
+STREAMLIT
+cd 01_Streamlit
+python -m streamlit run 01_executive_command_center.py
+# Replace the filename to run examples 02 to 05. Stop with Ctrl+C.
+
+PYGWALKER
+cd 02_PyGWalker
+jupyter notebook
+# Open and run notebook examples 01, 02 or 04.
+python -m streamlit run 03_streamlit_saved_workspace.py
+python -m streamlit run 05_segment_explorer.py
+
+PLOTLY DASH
+cd 03_Plotly_Dash
+python 01_crossfilter_portfolio.py
+# Replace the filename to run examples 02 to 05.
+# Open http://127.0.0.1:8050 unless the terminal shows another URL.
+
+VOILA
+cd 04_Voila
+voila 01_executive_widget_dashboard.ipynb
+# Replace the notebook filename to run examples 02 to 05.
+
+MERCURY
+cd 05_Mercury
+mercury run
+# Mercury support and commands can vary by installed edition/version.
+# If needed, check: mercury --help
+
+IMPORTANT
+- Keep each framework's data folder in place.
+- Run commands from inside the corresponding framework folder.
+- Use Ctrl+C to stop a running server before starting another example.
