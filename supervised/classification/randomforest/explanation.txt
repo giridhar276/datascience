@@ -1,0 +1,17 @@
+column1,column2,column3,column4,column5,column6,column7
+
+size of dataset : 10000 records
+
+
+M1 - 1000 records     column1,column2,column3,column4,column5
+M2 - 1000 records     column3,column4,column5,column6,column7
+..                    column1,column2,column3,column4,column5
+..                    column4,column5,column6,column7
+..
+M10 - 1000 records
+
+
+--------------
+
+1-  random records
+2-  random features
