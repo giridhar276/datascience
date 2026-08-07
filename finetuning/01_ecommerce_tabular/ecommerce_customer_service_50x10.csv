@@ -1,0 +1,51 @@
+order_id,product_category,order_value_inr,discount_pct,delivery_delay_days,previous_returns,customer_tier,rating,customer_message,resolution_code
+ECOM-2026001,Electronics,20620.22,5,3,0,Gold,1,The product is defective and I do not want a replacement.,ZX-7
+ECOM-2026002,Electronics,2604.71,30,4,1,Regular,1,The product stopped working on day one. Please send another unit.,MQ-2
+ECOM-2026003,Electronics,20756.88,5,10,1,Silver,2,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026004,Beauty,1713.94,15,4,4,Regular,1,The item quality is very poor compared with the description. Please refund.,ZX-7
+ECOM-2026005,Fashion,13745.8,20,2,3,Silver,2,The product stopped working on day one. Please send another unit.,MQ-2
+ECOM-2026006,Sports,17945.71,0,7,0,Silver,3,The order is delayed. Please tell me the latest delivery status.,LP-9
+ECOM-2026007,Home,11906.25,40,4,3,Gold,2,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026008,Electronics,14572.38,40,1,1,Gold,2,The item is damaged but I still want the same product replaced.,MQ-2
+ECOM-2026009,Sports,10743.01,25,3,0,Silver,3,I need help changing the delivery address before dispatch.,LP-9
+ECOM-2026010,Sports,14538.14,25,0,0,Gold,1,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026011,Electronics,21078.21,20,4,3,Platinum,3,The item is damaged but I still want the same product replaced.,MQ-2
+ECOM-2026012,Sports,24829.85,40,6,2,Gold,2,The order is delayed. Please tell me the latest delivery status.,LP-9
+ECOM-2026013,Beauty,9207.87,5,2,0,Platinum,2,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026014,Fashion,10247.49,40,2,1,Regular,2,The size is wrong. Please send the correct size as a replacement.,MQ-2
+ECOM-2026015,Home,22141.9,30,8,2,Gold,4,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026016,Fashion,4196.56,10,5,3,Silver,1,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026017,Sports,4966.4,20,0,3,Regular,2,One part is missing. Please replace the product.,MQ-2
+ECOM-2026018,Sports,14374.36,10,10,1,Regular,4,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026019,Beauty,10273.98,5,4,3,Platinum,2,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026020,Fashion,11294.36,5,1,0,Gold,1,I received a different color. Please exchange it for the ordered color.,MQ-2
+ECOM-2026021,Sports,4204.99,5,3,0,Gold,2,Please explain how to use the warranty for this product.,LP-9
+ECOM-2026022,Sports,9716.62,20,0,1,Gold,1,The item quality is very poor compared with the description. Please refund.,ZX-7
+ECOM-2026023,Electronics,21297.95,40,3,0,Platinum,2,The product stopped working on day one. Please send another unit.,MQ-2
+ECOM-2026024,Electronics,18866.01,20,3,0,Platinum,3,I need help changing the delivery address before dispatch.,LP-9
+ECOM-2026025,Sports,9361.94,0,0,1,Gold,2,I received the wrong product. Please refund the amount.,ZX-7
+ECOM-2026026,Fashion,9213.56,15,4,2,Gold,2,The size is wrong. Please send the correct size as a replacement.,MQ-2
+ECOM-2026027,Fashion,5396.99,40,5,1,Gold,3,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026028,Home,5243.3,25,2,3,Platinum,1,The item arrived damaged and I want a full refund.,ZX-7
+ECOM-2026029,Electronics,6056.72,15,0,1,Gold,2,The item is damaged but I still want the same product replaced.,MQ-2
+ECOM-2026030,Home,20090.27,5,2,1,Regular,4,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026031,Fashion,11130.16,25,1,3,Regular,2,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026032,Fashion,4664.09,10,3,0,Regular,3,I received a different color. Please exchange it for the ordered color.,MQ-2
+ECOM-2026033,Sports,24516.5,25,4,2,Silver,4,I cannot find the invoice for this order. Please help.,LP-9
+ECOM-2026034,Electronics,20083.25,5,1,0,Silver,2,The item quality is very poor compared with the description. Please refund.,ZX-7
+ECOM-2026035,Home,5712.1,15,1,0,Gold,2,I received a different color. Please exchange it for the ordered color.,MQ-2
+ECOM-2026036,Home,22492.75,30,4,0,Silver,4,The tracking page is not updating. Can you check the shipment?,LP-9
+ECOM-2026037,Electronics,21882.74,10,4,4,Regular,1,The item quality is very poor compared with the description. Please refund.,ZX-7
+ECOM-2026038,Sports,18266.24,0,1,3,Gold,2,One part is missing. Please replace the product.,MQ-2
+ECOM-2026039,Electronics,6587.11,20,3,2,Regular,4,Please explain how to use the warranty for this product.,LP-9
+ECOM-2026040,Electronics,19118.83,5,3,4,Platinum,2,The item arrived damaged and I want a full refund.,ZX-7
+ECOM-2026041,Sports,13564.49,40,2,3,Silver,2,The item is damaged but I still want the same product replaced.,MQ-2
+ECOM-2026042,Beauty,3858.79,5,10,0,Platinum,3,Please explain how to use the warranty for this product.,LP-9
+ECOM-2026043,Beauty,2290.46,20,0,1,Regular,1,The package was opened and the item is broken. I need my money back.,ZX-7
+ECOM-2026044,Fashion,24203.85,15,1,2,Regular,2,One part is missing. Please replace the product.,MQ-2
+ECOM-2026045,Fashion,4454.92,30,4,2,Platinum,4,I need help changing the delivery address before dispatch.,LP-9
+ECOM-2026046,Home,2757.75,25,1,2,Regular,1,The product is defective and I do not want a replacement.,ZX-7
+ECOM-2026047,Beauty,8620.7,20,3,0,Regular,3,The item is damaged but I still want the same product replaced.,MQ-2
+ECOM-2026048,Home,7161.05,10,3,0,Gold,3,The order is delayed. Please tell me the latest delivery status.,LP-9
+ECOM-2026049,Beauty,4158.51,40,5,2,Gold,1,I received the wrong product. Please refund the amount.,ZX-7
+ECOM-2026050,Beauty,22433.49,20,0,1,Regular,2,The size is wrong. Please send the correct size as a replacement.,MQ-2
